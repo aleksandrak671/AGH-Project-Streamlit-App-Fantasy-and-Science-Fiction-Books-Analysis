@@ -4,11 +4,6 @@ Streamlit Application with Data Analysis, Processing, and Visualization
 
 ---
 
-## 🌐 Live App
-[Click here to launch the Streamlit application](https://aleksandrak671-books-analysis.streamlit.app)
-
----
-
 ## About this project
 
 - Streamlit web application for analyzing a dataset of fantasy and science fiction books
